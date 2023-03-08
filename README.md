@@ -1,1 +1,1 @@
- <img width=100% src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif&quot;)">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2A30&width=435&lines=Hello%2C+my+friend;I+am+a+junior+qa+tester;here+I+will+post+my+HW;and+enjoy+watchingand+)](https://git.io/typing-svg)
