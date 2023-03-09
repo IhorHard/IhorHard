@@ -16,4 +16,6 @@
 ![DevTools](https://img.shields.io/badge/-ChromeDevTools-black?style=for-the-badge&logo=Google&logoColor=05f229)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 
+![](https://komarev.com/ghpvc/?username=IhorHard)
+
 
