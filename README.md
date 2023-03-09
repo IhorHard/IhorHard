@@ -15,6 +15,7 @@
 ![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=0377fc)
 ![DevTools](https://img.shields.io/badge/-ChromeDevTools-black?style=for-the-badge&logo=Google&logoColor=05f229)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![APACHE](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache&logoColor=red)
 
 ![](https://komarev.com/ghpvc/?username=IhorHard&color=red&=for-the-badge)
 
