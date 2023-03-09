@@ -1,6 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=50&color=F71010&width=435&lines=Be+welcome+my+friend++my+name+is+Ihor;I+am+a+junior+QA+tester;and+here+I+will+post+my+HW)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sedgwick+Ave&pause=1000&color=FF0000&width=435&lines=Be+welcome+my+friend;My+name+is+Ihor;I+am+a+junior+QA+tester;And+here+I+will+post+my+HW;See+you++good+luck+to+you)](https://git.io/typing-svg)
 
 
 
