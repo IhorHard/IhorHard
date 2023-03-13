@@ -17,6 +17,6 @@
 ![APACHE](https://img.shields.io/badge/-apache-0d1217?style=for-the-badge&logo=apache&logoColor=red)
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
 
-![](https://komarev.com/ghpvc/?username=IhorHard&color=red&=for-the-badge)
+![](https://komarev.com/ghpvc/?username=IhorHard&color=0d1217&=for-the-badge)
 
 
