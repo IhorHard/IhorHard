@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nosifer&pause=1000&color=FF0000&width=435&lines=Be+welcome+my+friend;My+name+is+Ihor;I+am+a+junior+QA+tester;And+here+I+will+post+my+HW;See+you++good+luck+to+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nosifer&size=20&pause=1000&color=FF0000&width=435&lines=Be+welcome+my+friend;My+name+is+Ihor;I+am+a+junior+QA+tester;And+here+I+will+post+my+HW;See+you++good+luck+to+you)](https://git.io/typing-svg)
 
 
 
