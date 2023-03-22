@@ -17,7 +17,6 @@
 ![APACHE](https://img.shields.io/badge/-apache-0d1217?style=for-the-badge&logo=apache&logoColor=red)
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
 ![tme](https://img.shields.io/badge/-tme-0d1217?style=for-the-badge&logo=telegram&logoColor=blue)
-![Insta](https://img.shields.io/badge/-Inst-0d1217?style=for-the-badge&logo=instagram&logoColor=roze)
 ![GMAIL](https://img.shields.io/badge/-gmail-0d1217?style=for-the-badge&logo=gmail&logoColor=roze)
 ![spotify](https://img.shields.io/badge/-spotify-0d1217?style=for-the-badge&logo=spotify&logoColor=roze)
 
