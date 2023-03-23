@@ -19,6 +19,20 @@
 ![spotify](https://img.shields.io/badge/-spotify-0d1217?style=for-the-badge&logo=spotify&logoColor=roze)
 ![postgresql](https://img.shields.io/badge/-postgresql-0d1217?style=for-the-badge&logo=postgresql&logoColor=blue)
 
+<div align="justify">
+<a href="https://www.instagram.com/younggodhardcore/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ihorhardcorenko/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/IhorHardcorenko/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+  
+
 ![](https://komarev.com/ghpvc/?username=IhorHard&color=0d1217&=for-the-badge)
 
 
