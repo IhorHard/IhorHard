@@ -7,7 +7,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-0d1217?style=for-the-badge&logo=Jira&logoColor=850909)
 ![AndroidStudio](https://img.shields.io/badge/-Androidstudio-0d1217?style=for-the-badge&logo=Androidstudio)
 ![Postman](https://img.shields.io/badge/-Postman-0d1217?style=for-the-badge&logo=Postman)
-![Discord](https://img.shields.io/badge/-Discord-0d1217?style=for-the-badge&logo=Discord)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-0d1217?style=for-the-badge&logo=VisualStudioCode&logoColor=34c3eb)
 ![DevTools](https://img.shields.io/badge/-DevTools-0d1217?style=for-the-badge&logo=Google&logoColor=05f229)
 ![HTML](https://img.shields.io/badge/-HTML-0d1217?style=for-the-badge&logo=HTML5&logoColor=red)
