@@ -13,7 +13,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d1217?style=for-the-badge&logo=HTML5&logoColor=red)
 ![APACHE](https://img.shields.io/badge/-apache-0d1217?style=for-the-badge&logo=apache&logoColor=red)
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
-![spotify](https://img.shields.io/badge/-spotify-0d1217?style=for-the-badge&logo=spotify&logoColor=roze)
 ![postgresql](https://img.shields.io/badge/-postgresql-0d1217?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 <div align="justify">
