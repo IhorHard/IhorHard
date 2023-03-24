@@ -13,6 +13,7 @@
 ![APACHE](https://img.shields.io/badge/-apache-0d1217?style=for-the-badge&logo=apache&logoColor=red)
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
 ![postgresql](https://img.shields.io/badge/-postgresql-0d1217?style=for-the-badge&logo=postgresql&logoColor=blue)
+![codecademy](https://img.shields.io/badge/-codecademy-0d1217?style=for-the-badge&logo=codecademy&logoColor=white)
 
 <div align="justify">
 <a href="https://www.instagram.com/younggodhardcore/">
