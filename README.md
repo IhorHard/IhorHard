@@ -9,7 +9,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-0d1217?style=for-the-badge&logo=Postman)
 ![Discord](https://img.shields.io/badge/-Discord-0d1217?style=for-the-badge&logo=Discord)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-0d1217?style=for-the-badge&logo=VisualStudioCode&logoColor=34c3eb)
-![DevTools](https://img.shields.io/badge/-ChromeDevTools-0d1217?style=for-the-badge&logo=Google&logoColor=05f229)
+![DevTools](https://img.shields.io/badge/-DevTools-0d1217?style=for-the-badge&logo=Google&logoColor=05f229)
 ![HTML](https://img.shields.io/badge/-HTML-0d1217?style=for-the-badge&logo=HTML5&logoColor=red)
 ![APACHE](https://img.shields.io/badge/-apache-0d1217?style=for-the-badge&logo=apache&logoColor=red)
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
