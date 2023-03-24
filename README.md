@@ -14,6 +14,7 @@
 ![XCODE](https://img.shields.io/badge/-Xcode-0d1217?style=for-the-badge&logo=Xcode&logoColor=red)
 ![postgresql](https://img.shields.io/badge/-postgresql-0d1217?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![codecademy](https://img.shields.io/badge/-codecademy-0d1217?style=for-the-badge&logo=codecademy&logoColor=white)
+![python](https://img.shields.io/badge/-python-0d1217?style=for-the-badge&logo=python&logoColor=yellow)
 
 <div align="justify">
 <a href="https://www.instagram.com/younggodhardcore/">
