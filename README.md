@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-0d1217?style=for-the-badge&logo=Python&logoColor=yellow)
 
 <div align="justify">
-<a href="https://www.instagram.com/cultyoungodin/">
+<a href="https://www.instagram.com/odinwaiting/">
 <img src="https://img.shields.io/badge/Instagram-0d1217.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
