@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nosifer&size=20&duration=4000&pause=1000&color=FF0000&width=435&lines=Be+welcome+my+friend;My+name+is+Ihor;I+am+a+junior+QA+tester;And+here+I+will+post+my+HW;See+you++good+luck+to+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nosifer&size=35&duration=4000&pause=1000&color=FF0000&width=435&lines=404+NOT+FOUND)](https://git.io/typing-svg)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-0d1217?style=for-the-badge&logo=GitHub)
 ![Git](https://img.shields.io/badge/-Git-0d1217?style=for-the-badge&logo=Git)
